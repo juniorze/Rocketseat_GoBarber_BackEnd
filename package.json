@@ -1,0 +1,10 @@
+{
+  "name": "Gobarber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "juniorze <junior.ze.jw@gmail.com> (https://github.com/juniorze/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
